@@ -1,0 +1,157 @@
+body {
+    margin: 0 auto;
+}
+
+body, html, section {
+    width: 100%;
+    height: 100%;
+}
+
+.mySlides {
+    display:none;
+}
+
+h1, h2, h3, h4, h5, h6 p {
+    font-family: 'Playfair Display', serif;
+    font-size: 8vh;
+    text-align: center;
+}
+
+.fs-img-1 {
+  /* The image used */
+  background-image: url("../img/slide1.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.fs-img-2 {
+  /* The image used */
+  background-image: url("../img/slide2-belleco.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.fs-img-3 {
+  /* The image used */
+  background-image: url("../img/slide3-Ungaro.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.fs-img-4 {
+  /* The image used */
+  background-image: url("../img/slide4.JPG");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.fs-img-5 {
+  /* The image used */
+  background-image: url("../img/slide5.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.fs-img-6 {
+  /* The image used */
+  background-image: url("../img/slide8.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.fs-img-7 {
+  /* The image used */
+  background-image: url("../img/slide7.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.black-shadow {
+    text-shadow: 8px 8px 8px rgba(0,0,0,0.5)
+}
+
+.caption {
+    font-size: 10px;
+    font-family: 'Playfair Display', serif;
+}
+
+#video-1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    overflow: hidden;
+}
+
+figure {
+    margin: 0;
+}
+
+.w3-button {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 12px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+  background-color: #434343;
+}
+
+audio {
+    height: 40px;
+    width: 220px;
+}
+
+.w3-half-1 {
+    margin: 200px 0 0 0;
+}
