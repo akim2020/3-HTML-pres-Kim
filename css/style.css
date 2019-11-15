@@ -155,3 +155,7 @@ audio {
 .w3-half-1 {
     margin: 200px 0 0 0;
 }
+
+section {
+    overflow: hidden;
+}
